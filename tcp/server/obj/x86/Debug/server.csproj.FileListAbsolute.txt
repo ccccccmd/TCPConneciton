@@ -1,0 +1,7 @@
+E:\Visual Studio 2010\project\单例模式\server\bin\Debug\server.exe
+E:\Visual Studio 2010\project\单例模式\server\bin\Debug\server.pdb
+E:\Visual Studio 2010\project\单例模式\server\obj\x86\Debug\server.Form1.resources
+E:\Visual Studio 2010\project\单例模式\server\obj\x86\Debug\server.Properties.Resources.resources
+E:\Visual Studio 2010\project\单例模式\server\obj\x86\Debug\server.csproj.GenerateResource.Cache
+E:\Visual Studio 2010\project\单例模式\server\obj\x86\Debug\server.exe
+E:\Visual Studio 2010\project\单例模式\server\obj\x86\Debug\server.pdb
